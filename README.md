@@ -14,7 +14,9 @@ Want to try a fine-tuning method that uses a fraction of the parameter count of 
 - 🔥 Customizable trainer such as [DPO with ReFT](https://github.com/stanfordnlp/pyreft/tree/main/examples/dpo)
 
 > [!TIP]
-> **Getting Started:** 
+> **Getting Started:**
+> [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/pyreft?machine=Free-GPU)
+
 
 <kbd>
 <img src="https://github.com/stanfordnlp/pyreft/assets/15223704/580d6cfd-4c3c-49a7-bc9f-1f9cc9a5aee7" width="400"/>
